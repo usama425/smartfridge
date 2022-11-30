@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Reminder.iml" filepath="$PROJECT_DIR$/.idea/modules/Reminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reminder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reminder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reminder.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reminder.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reminder.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reminder.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.iml" filepath="$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/settingsapp/Reminder.app.settingsapp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reminder.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reminder.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

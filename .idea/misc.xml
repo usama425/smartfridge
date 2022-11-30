@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/settingsapp/src/main/res/layout/settings_activity.xml" value="0.1743659420289855" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/drawable/blur_layout.xml" value="0.122" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/drawable/dock_item_back.xml" value="0.122" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/drawable/lockbutton_back.xml" value="0.132" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/drawable/time_back.xml" value="0.132" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/font/poppins_bold.xml" value="0.24444444444444444" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/layout/activity_lockscreen.xml" value="0.25" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/layout/gallery_item.xml" value="0.1743659420289855" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/layout/item.xml" value="0.17074275362318841" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/menu/drawer_manu.xml" value="0.22447916666666667" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1045" />
+        <entry key="..\:/upwork/smartfridge/SmartFridge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1045" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
